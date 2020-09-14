@@ -1,0 +1,7 @@
+고양이: cat
+사과: apple
+절: tample
+지갑: wallet
+책가방: bag
+비누: soap
+자전거: bycicle
